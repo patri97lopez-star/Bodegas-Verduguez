@@ -1,0 +1,6 @@
+{
+  "name": "Bodegas Verduguez - Vinos de Tradición y Vanguardia",
+  "description": "Bodegas familiares en Villanueva de Alcardete desde 1950. Vinos D.O. La Mancha, ecológicos, veganos y de autor elaborados con pasión a 780m de altitud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
